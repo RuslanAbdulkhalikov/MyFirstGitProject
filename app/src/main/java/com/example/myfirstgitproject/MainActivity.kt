@@ -1,4 +1,4 @@
-spackage com.example.myfirstgitproject
+package com.example.myfirstgitproject
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
